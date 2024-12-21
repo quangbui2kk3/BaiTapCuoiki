@@ -11,6 +11,7 @@ namespace Demogit
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Word");
+            Console.WriteLine(" Hello anh em");
             Console.ReadLine();
         }
     }
